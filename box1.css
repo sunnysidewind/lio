@@ -1,0 +1,10 @@
+.Box1 {
+background: #ffa550;
+padding: 15px;
+height: 350px;
+width: 550px;
+overflow: auto;
+margin-bottom: 35px;
+border: 1px solid #f7f7c0;
+border-radius: 5px;
+}
